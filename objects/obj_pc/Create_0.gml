@@ -6,4 +6,6 @@ movespd = 1;
 xspd = 0;
 yspd = 0;
 
+combat = false
+
 tilemap = layer_tilemap_get_id("Tiles_col"); 
