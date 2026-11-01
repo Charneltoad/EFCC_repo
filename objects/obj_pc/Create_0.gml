@@ -8,4 +8,5 @@ yspd = 0;
 
 combat = false
 
-tilemap = layer_tilemap_get_id("Tiles_col"); 
+tilemap = layer_tilemap_get_id("Tiles_col");
+shore = layer_tilemap_get_id("Tiles_col_invis");
