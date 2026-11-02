@@ -1,6 +1,6 @@
 x -= 2;
 
-if (x < xstart)
+if (x > xstart)
 {
 	alarm[1] = 1;
 }

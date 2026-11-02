@@ -12,6 +12,7 @@ else
 }
 
 obj_battle_player.data.magic+= 1;
+
 if (obj_battle_player.data.magic > obj_battle_player.data.magic_meter_cap)
 {
 	obj_battle_player.data.magic = obj_battle_player.data.magic_meter_cap;
