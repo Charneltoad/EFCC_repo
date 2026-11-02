@@ -1,4 +1,4 @@
-if (obj_battle_manager.enemy_turn || obj_battle_player.data.charge < 1)
+if (obj_battle_manager.enemy_turn || obj_battle_player.data.magic < 1)
 {
 	image_alpha = 0.25;
 }
