@@ -3,5 +3,5 @@ target_y = y;
 
 alarm[0] = 60;
 
-tilemapstuff = layer_tilemap_get_id("Tiles_col");
-tilemapshore = layer_tilemap_get_id("Tiles_col_invis");
+tilemap = layer_tilemap_get_id("Tiles_col");
+tilemap2 = layer_tilemap_get_id("Tiles_col_invis");

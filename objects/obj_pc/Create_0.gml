@@ -6,7 +6,5 @@ movespd = 1;
 xspd = 0;
 yspd = 0;
 
-combat = false
-
 tilemap = layer_tilemap_get_id("Tiles_col");
-shore = layer_tilemap_get_id("Tiles_col_invis");
+tilemap2 = layer_tilemap_get_id("Tiles_col_invis");
