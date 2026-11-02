@@ -21,7 +21,7 @@ yspd = lengthdir_y(_spd, movedir);
 
 
 //collision
-move_and_collide(xspd * 4, yspd * 4, [tilemap, tilemap2, obj_enemy_parent]);
+move_and_collide(xspd * 4, yspd * 4, [tilemap, tilemap2, obj_npc_parent, obj_enemy_parent]);
 
 if (_hor != 0 or _ver != 0)
 {sprite_index = spr_pc_ow_walking}

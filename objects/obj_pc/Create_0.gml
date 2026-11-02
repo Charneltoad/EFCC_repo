@@ -12,6 +12,7 @@ gun_damage = 5;
 magic_meter_cap = 10;
 magic = 10;
 ammo = 10;
+ammo_cap = 10;
 level = 1;
 xp = 0;
 xp_req = 100;
