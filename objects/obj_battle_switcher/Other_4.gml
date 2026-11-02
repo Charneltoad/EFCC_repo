@@ -1,4 +1,4 @@
-if (room != Room_battle)
+if (room != Room_b)
 {
 	alarm[0] = 60;	
 }

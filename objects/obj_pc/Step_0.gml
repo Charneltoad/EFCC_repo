@@ -27,3 +27,8 @@ if (_hor != 0 or _ver != 0)
 {sprite_index = spr_pc_ow_walking}
 else
 {sprite_index = spr_pc_ow_idle}
+
+if (hp <= 0)
+{
+	game_restart();	
+}

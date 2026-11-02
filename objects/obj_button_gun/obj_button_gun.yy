@@ -6,8 +6,8 @@
   "name":"obj_button_gun",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Battle",
+    "path":"folders/Objects/Battle.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

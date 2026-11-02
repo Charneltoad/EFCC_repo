@@ -5,3 +5,5 @@ alarm[0] = 60;
 
 tilemap = layer_tilemap_get_id("Tiles_col");
 tilemap2 = layer_tilemap_get_id("Tiles_col_invis");
+
+hp_max = hp;
