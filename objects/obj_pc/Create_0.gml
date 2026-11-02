@@ -23,13 +23,13 @@ function add_xp(_xp_to_add)
 	{
 		level++;
 		xp -= xp_req;
-		xp_req *= 1.4;
+		xp_req *= 1.35;
 		
 		hp_max += 5;
 		hp = hp_max;
 		damage += 1;
-		magic_damage += 1.5;
-		gun_damage += 2;
+		magic_damage += 2;
+		gun_damage += 3;
 	}
 }
 	
